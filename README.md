@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
 <p align="left">
-<a href="https://twitter.com/ymbaixa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xenaaMorph" height="30" width="40" /></a>
+<a href="https://twitter.com/xenaaMorph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xenaaMorph" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yiremorlans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiremorlans" height="30" width="40" /></a>
 </p>
 
