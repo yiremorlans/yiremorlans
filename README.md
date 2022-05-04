@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiremorlans&show_icons=true&locale=en&layout=compact" alt="yiremorlans" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yiremorlans&" alt="yiremorlans" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yiremorlans&" alt="yiremorlans" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+mono&size=22&duration=5024&vCenter=true&lines=Take+me+to+your+leader)](https://git.io/typing-svg)
 <p>Looking to bring my skills to a tech company with a global reach.</p>
