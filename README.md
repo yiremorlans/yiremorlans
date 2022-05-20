@@ -2,6 +2,87 @@
 <p align='center'>Highly motivated full stack software engineer at 100Devs. Experienced in creating and implementing successful front and back end web applications.</p>
 <p align='center'>I love JavaScript, React, and talking about code. I'm most interested in creating shared success among women, people of color, and people with disabilities.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more info. </p>
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#ffffff">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Animal Crossing Birthday Twin</h3>
+        <br />
+        <a target="_blank" href="https://ac-birthdaytwin.netlify.app/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-birthdaytwin.gif" width="100%" alt="animal crossing app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+         <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA APOD & Data </h3>
+        <br />
+      <a target="_blank" href="https://hair-salon-website.netlify.app/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%"  alt="Nasa Picture of the day"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Hair%20salon%20website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hair-salon-website.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://shubhamsigdar.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="hhttps://github.com/shubhamsigdar/Portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://shubhamsigdar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Dog Breed API</h3>
+        <br />
+        <a target="_blank" href="https://dogbreedapi.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/shubhamsigdar/Get-Dog-picture-by-breed" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dogbreedapi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+</table>
 
   
 <h2 align="left">Technologies</h2>  
