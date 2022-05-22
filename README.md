@@ -2,24 +2,106 @@
 <p align='center'>Highly motivated full stack software engineer at 100Devs. Experienced in creating and implementing successful front and back end web applications.</p>
 <p align='center'>I love JavaScript, React, and talking about code. I'm most interested in creating shared success among women, people of color, and people with disabilities.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more info. </p>
+<p align="center">
+  <a href="https://yiremorlans.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=a3496a&style=flat&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yiremorlans/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=a3496a&style=flat&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/xenaaMorph" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=a3496a&style=flat&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/yire-morlans" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=a3496a&style=flat&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=react&logo-color=white"/>
+  </a>
+</p>
+
 <h1 align="center">Projects</h1>
 
-
+<table bordercolor="#a3496a">
   
-<h2 align="left">Technologies</h2>  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AC New Horizons: Seasons Preview</h3>
+        <br />
+        <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" alt="Animal crossing seasons preview"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/yiremorlans/acnh-seasons" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Space Travel with NASA</h3>
+        <br />
+      <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%"  alt="NASA picture of day API web app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/yiremorlans/NASA-api" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://yiremorlans.github.io/NASA-api/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Animal Crossing Birthday Twin</h3>
+      <br />
+        <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-birthdaytwin.gif" width="100%" alt="Animal crossing birthday twin finder"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/yiremorlans/ac-birthdaytwin" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://yiremorlans.github.io/ac-birthdaytwin/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Cocktail Machine</h3>
+        <br />
+        <a target="_blank" href="https://yiremorlans.github.io/cocktail-machine/">
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" alt="cocktail generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/yiremorlans/cocktail-machine" target="_blank">
+  <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://yiremorlans.github.io/cocktail-machine/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+</table>
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
  <br>
   <img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiremorlans&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
-
-  
-
-
-<h2 align="left">Let's Connect!</h2>  
-
-<p align="left">  
-<a href="https://twitter.com/xenaamorph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xenaamorph" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/yiremorlans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiremorlans" height="30" width="40" /></a>  
-<a href="https://codesandbox.com/yiremorlans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yiremorlans" height="30" width="40" /></a> 
-</p>
