@@ -66,7 +66,7 @@
       <h3 align="center">Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-birthdaytwin.gif" width="100%" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
