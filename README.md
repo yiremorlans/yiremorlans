@@ -1,7 +1,7 @@
 <p align='center'><img src="https://raw.githubusercontent.com/yiremorlans/yiremorlans/fb1646cc9dce1e2e070e7aac5d1bea81de4d8236/yire-logo.png" alt="yire morlans logo" style="max-width: 100%;"/></p>
 <p align='center'>Highly motivated full stack software engineer at 100Devs. Experienced in creating and implementing successful front and back end web applications.</p>
 <p align='center'>I love JavaScript, React, and talking about code. I'm most interested in creating shared success among women, people of color, and people with disabilities.</p>
-<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more info. </p>
+<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=a3496a&style=flat&logo=react&logo-color=white"/>
@@ -17,8 +17,9 @@
   </a>
   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=react&logo-color=white"/>
-  </a> <img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
+  </a> 
 </p>
+
 
 <h1 align="center">Projects</h1>
 
@@ -82,7 +83,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
         <br />
-        <a target="_blank" href="https://yiremorlans.github.io/cocktail-machine/">
+        <a target="_blank" href="https://cocktail-machine.netlify.app/">
           <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" alt="cocktail generator"/>
         </a>
         <br />
@@ -91,7 +92,7 @@
   <a href="https://github.com/yiremorlans/cocktail-machine" target="_blank">
   <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://yiremorlans.github.io/cocktail-machine/" target="_blank">
+  <a href="https://cocktail-machine.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
@@ -105,3 +106,5 @@
 
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiremorlans&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+ <br/>
+   <img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
