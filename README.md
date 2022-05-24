@@ -40,10 +40,10 @@
   <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p><strong>HTML5, CSS3, & Javascript</strong></p>
+         <p><strong>Web Development</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Space Travel with NASA</h3>
+      <h3 align="center">Leon County Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
             <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%"  alt="NASA picture of day API web app"/>
@@ -58,13 +58,13 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong></p>
+      <p><strong>Web Application w/ NASA API integration</strong></p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Animal Crossing Birthday Twin</h3>
+      <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
           <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" alt="Animal crossing birthday twin finder"/>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+        <p><strong>Web Application w/ Nookipedia API</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
@@ -95,7 +95,7 @@
   <a href="https://cocktail-machine.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+        <p><strong>Web Application</strong></p>
     </td>
   </tr>
 </table>
