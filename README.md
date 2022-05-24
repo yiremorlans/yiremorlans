@@ -1,4 +1,4 @@
-<p align='center'><img src="https://raw.githubusercontent.com/yiremorlans/yiremorlans/fb1646cc9dce1e2e070e7aac5d1bea81de4d8236/yire-logo.png" alt="yire morlans logo" style="max-width: 100%;"/></p>
+<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/yire-logo.webp" alt="yire morlans logo" style="max-width: 100%;"/></p>
 <p align='center'>Highly motivated full stack software engineer at 100Devs. Experienced in creating and implementing successful front and back end web applications.</p>
 <p align='center'>I love JavaScript, React, and talking about code. I'm most interested in creating shared success among women, people of color, and people with disabilities.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
