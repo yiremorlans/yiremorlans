@@ -43,7 +43,7 @@
          <p><strong>Web Development</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Leon County Youth Observatory Club APOD</h3>
+      <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
             <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%"  alt="NASA picture of day API web app"/>
