@@ -1,6 +1,6 @@
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/yire-logo.webp" alt="yire morlans logo" style="max-width: 100%;"/></p>
 <p align='center'>Highly motivated software engineer with a passion for the intersection of code and Pokémon.</p>
-<p align='center'>Looking to bring my interpersonal and web development skills to a tech company with a global reach, and to contribute to innovative projects within the interactive entertainment sphere.</p>
+<p align='center'>Looking to bring my interpersonal and software development skills to a tech company with a global reach, and to contribute to innovative projects within the interactive entertainment space.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
