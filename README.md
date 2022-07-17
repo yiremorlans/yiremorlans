@@ -27,26 +27,26 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AC New Horizons: Seasons Preview</h3>
+      <h3 align="center">Fan Favorite Futurama Quotes</h3>
         <br />
-        <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" height="265px" alt="Animal crossing seasons preview"/>
+        <a target="_blank" href="https://futuramafan-quotes.herokuapp.com/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/futuramaCRUD.gif" width="100%" height="275px" alt="Futurama fan quotes web app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/yiremorlans/acnh-seasons" target="_blank" rel="noreferrer">
+  <a href="https://github.com/yiremorlans/Futurama-fanfavorite-quotes" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
-  <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
+  <a href="https://futuramafan-quotes.herokuapp.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Web Development</strong></p>
+         <p align="center"><strong>CRUD Web Application</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="265px" alt="NASA picture of day API web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="275px" alt="NASA picture of day API web app"/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@
       <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" height="265px" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" height="275px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -84,7 +84,7 @@
       <h3 align="center">Cocktail Machine</h3>
         <br />
         <a target="_blank" href="https://cocktail-machine.netlify.app/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="265px" alt="cocktail generator"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="275px" alt="cocktail generator"/>
         </a>
         <br />
         <p align="center">
@@ -96,6 +96,42 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
         <p align="center"><strong>Web Application</strong></p>
+    </td>
+  </tr>
+  
+   <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
+      <br />
+        <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" height="255px" alt="Animal crossing birthday twin finder"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/yiremorlans/ac-birthdaytwin" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://yiremorlans.github.io/ac-birthdaytwin/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web Application w/ Nookipedia API</strong></p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">AC New Horizons: Seasons Preview</h3>
+        <br />
+        <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" height="255px" alt="Animal crossing seasons preview"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/yiremorlans/acnh-seasons" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>Web Development</strong></p>
     </td>
   </tr>
 </table>
