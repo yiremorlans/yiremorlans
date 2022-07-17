@@ -40,7 +40,7 @@
   <a href="https://futuramafan-quotes.herokuapp.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>CRUD Web Application</strong></p>
+         <p align="center"><strong>CRUD Web App - MongoDB, Express, EJS & CSS, JS, live on Heroku </strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-      <p align="center"><strong>Web Application w/ NASA API integration</strong></p>
+      <p align="center"><strong>Web App w/ NASA API integration - HTML, CSS, JS</strong></p>
     </td>
   </tr>
   
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web Application w/ Nookipedia API</strong></p>
+        <p align="center"><strong>Web App w/ Nookipedia API integration - HTML, CSS, JS</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
@@ -95,7 +95,7 @@
   <a href="https://cocktail-machine.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
-        <p align="center"><strong>Web Application</strong></p>
+        <p align="center"><strong>Web App w/ theCocktailDB API integration - HTML, CSS, JS</strong></p>
     </td>
   </tr>
   
@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web Application w/ Nookipedia API</strong></p>
+        <p align="center"><strong>Web App w/ Nookipedia API - HTML, CSS, JS</strong></p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">AC New Horizons: Seasons Preview</h3>
@@ -131,13 +131,13 @@
   <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Web Development</strong></p>
+         <p align="center"><strong>Web Development - HTML, CSS, JS</strong></p>
     </td>
   </tr>
 </table>
 
 # 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
  <br>
 
   
