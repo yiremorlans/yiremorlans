@@ -1,5 +1,5 @@
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/logo.png" alt="yire morlans logo" style="max-width: 100%;"/></p>
-<p align='center'>Highly motivated software engineer with a passion for the intersection of code and Pokémon.</p>
+<p align='center'>Highly motivated software engineer with a passion for the intersection of code and Pokémon!</p>
 <p align='center'>Looking to bring my interpersonal and software development skills to a tech company with a global reach, and to contribute to innovative projects within the interactive entertainment space.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
@@ -30,7 +30,7 @@
       <h3 align="center">AC New Horizons: Seasons Preview</h3>
         <br />
         <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" alt="Animal crossing seasons preview"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" height="265px" alt="Animal crossing seasons preview"/>
         </a>
         <br />
         <p align="center">
@@ -40,13 +40,13 @@
   <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p><strong>Web Development</strong></p>
+         <p align="center"><strong>Web Development</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%"  alt="NASA picture of day API web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="265px" alt="NASA picture of day API web app"/>
         </a>
         <br />
         <p align="center">
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-      <p><strong>Web Application w/ NASA API integration</strong></p>
+      <p align="center"><strong>Web Application w/ NASA API integration</strong></p>
     </td>
   </tr>
   
@@ -67,7 +67,7 @@
       <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" height="265px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -78,13 +78,13 @@
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p><strong>Web Application w/ Nookipedia API</strong></p>
+        <p align="center"><strong>Web Application w/ Nookipedia API</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
         <br />
         <a target="_blank" href="https://cocktail-machine.netlify.app/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" alt="cocktail generator"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="265px" alt="cocktail generator"/>
         </a>
         <br />
         <p align="center">
@@ -95,7 +95,7 @@
   <a href="https://cocktail-machine.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
-        <p><strong>Web Application</strong></p>
+        <p align="center"><strong>Web Application</strong></p>
     </td>
   </tr>
 </table>
