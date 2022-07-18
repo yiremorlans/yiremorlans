@@ -4,7 +4,7 @@
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=a3496a&style=flat&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=a3496a&style=flat&logo=webflow&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yiremorlans/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=a3496a&style=flat&logo=linkedin&logo-color=white"/>
@@ -15,8 +15,8 @@
   <a href="https://angel.co/u/yire-morlans" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=a3496a&style=flat&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=react&logo-color=white"/>
+  <a href="https://github.com/yiremorlans/yiremorlans/blob/main/pdf_converter_1.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
 
