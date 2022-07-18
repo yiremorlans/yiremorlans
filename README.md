@@ -30,7 +30,7 @@
       <h3 align="center">Fan Favorite Futurama Quotes</h3>
         <br />
         <a target="_blank" href="https://futuramafan-quotes.herokuapp.com/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/futuramaCRUD.gif" width="100%" height="275px" alt="Futurama fan quotes web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/futuramaCRUD.gif" width="100%" height="270px" alt="Futurama fan quotes web app"/>
         </a>
         <br />
         <p align="center">
@@ -46,7 +46,7 @@
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="275px" alt="NASA picture of day API web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
         </a>
         <br />
         <p align="center">
