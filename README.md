@@ -15,7 +15,7 @@
   <a href="https://angel.co/u/yire-morlans" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=a3496a&style=flat&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://github.com/yiremorlans/yiremorlans/blob/main/pdf_converter_1.pdf" target="_blank">
+  <a href="https://github.com/yiremorlans/yiremorlans/blob/main/Yire_Morlans_-_Software_Engineer.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
