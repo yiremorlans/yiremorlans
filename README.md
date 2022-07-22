@@ -1,22 +1,22 @@
-<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/logo.png" alt="yire morlans logo" style="max-width: 100%;"/></p>
+<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/ezgif.com-gif-maker.webp" alt="yire morlans logo" style="max-width:50%;"/></p>
 <p align='center'>Highly motivated software engineer with a passion for the intersection of code and Pokémon!</p>
 <p align='center'>Looking to bring my interpersonal and software development skills to a tech company with a global reach, and to contribute to innovative projects within the interactive entertainment space.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=a3496a&style=flat&logo=webflow&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=01a9f4&style=flat&logo=webflow&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yiremorlans/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=a3496a&style=flat&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=01a9f4&style=flat&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/xenaaMorph" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=a3496a&style=flat&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=01a9f4&style=flat&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/yire-morlans" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=a3496a&style=flat&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=01a9f4&style=flat&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://github.com/yiremorlans/yiremorlans/blob/main/Yire_Morlans_-_Software_Engineer.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=a3496a&style=flat&logo=aboutdotme&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=01a9f4&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
 
@@ -36,9 +36,9 @@
         <p align="center">
           
   <a href="https://github.com/yiremorlans/Futurama-fanfavorite-quotes" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   <a href="https://futuramafan-quotes.herokuapp.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
          <p align="center"><strong>CRUD Web App - MongoDB, Express, EJS & CSS, JS, live on Heroku </strong></p>
     </td>
@@ -52,10 +52,10 @@
         <p align="center">
           
   <a href="https://github.com/yiremorlans/NASA-api" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
   <a href="https://yiremorlans.github.io/NASA-api/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
       <p align="center"><strong>Web App w/ NASA API integration - HTML, CSS, JS</strong></p>
@@ -72,10 +72,10 @@
       <br />
         <p align="center">
   <a href="https://github.com/yiremorlans/loop-studios" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
         <p align="center"><strong>Web Development - HTML, TailwindCSS, JS</strong></p>
@@ -90,10 +90,10 @@
         <p align="center">
           
   <a href="https://github.com/yiremorlans/cocktail-machine" target="_blank">
-  <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+  <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
   <a href="https://cocktail-machine.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
         <p align="center"><strong>Web App w/ theCocktailDB API integration - HTML, CSS, JS</strong></p>
     </td>
@@ -109,10 +109,10 @@
       <br />
         <p align="center">
   <a href="https://github.com/yiremorlans/ac-birthdaytwin" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
   <a href="https://yiremorlans.github.io/ac-birthdaytwin/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
         <p align="center"><strong>Web App w/ Nookipedia API - HTML, CSS, JS</strong></p>
@@ -127,9 +127,9 @@
         <p align="center">
           
   <a href="https://github.com/yiremorlans/acnh-seasons" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=a24667" alt="button to repository" height ="25px"></a> 
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-a24667?style=flat-square" alt="button to live site" height="25px"></a>
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
          <p align="center"><strong>Web Development - HTML, CSS, JS</strong></p>
     </td>
