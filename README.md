@@ -30,7 +30,7 @@
       <h3 align="center">Fan Favorite Futurama Quotes</h3>
         <br />
         <a target="_blank" href="https://futuramafan-quotes.herokuapp.com/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/futuramaCRUD.gif" width="100%" height="270px" alt="Futurama fan quotes web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/futurama.gif" width="100%" height="270px" alt="Futurama fan quotes web app"/>
         </a>
         <br />
         <p align="center">
@@ -46,7 +46,7 @@
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa-data.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@
       <h3 align="center">Cocktail Machine</h3>
         <br />
         <a target="_blank" href="https://cocktail-machine.netlify.app/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="275px" alt="cocktail generator"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail.gif" width="100%" height="275px" alt="cocktail generator"/>
         </a>
         <br />
         <p align="center">
@@ -104,7 +104,7 @@
       <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/birthday-twin.gif" width="100%" height="240px" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-twin.gif" width="100%" height="240px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -121,7 +121,7 @@
       <h3 align="center">AC New Horizons: Seasons Preview</h3>
         <br />
         <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-seasons.gif" width="100%" height="240px" alt="Animal crossing seasons preview"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/seasons.gif" width="100%" height="240px" alt="Animal crossing seasons preview"/>
         </a>
         <br />
         <p align="center">
