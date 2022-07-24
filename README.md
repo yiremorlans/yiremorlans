@@ -1,4 +1,4 @@
-<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/ezgif.com-gif-maker.gif" alt="yire morlans logo" style="max-width:50%;"/></p>
+<p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/ezgif.com-gif-maker.gif" alt="yire morlans logo" style="width:65%"/></p>
 <p align='center'>An adaptable developer with a purpose for determining efficient software solutions.</p>
 <p align='center'>Highly productive and organized, striving to provide optimal user experience using best practices. Looking for an opportunity to bring my interpersonal and software development experience to a tech company with a global reach.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
