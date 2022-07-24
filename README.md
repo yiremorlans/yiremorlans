@@ -83,7 +83,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
         <br />
-        <a target="_blank" href="https://cocktail-machine.netlify.app/">
+        <a target="_blank" href="https://yiremorlans.github.io/cocktail-machine/">
           <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="275px" alt="cocktail generator"/>
         </a>
         <br />
