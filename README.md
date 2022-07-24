@@ -1,6 +1,6 @@
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/ezgif.com-gif-maker.gif" alt="yire morlans logo" style="max-width:50%;"/></p>
-<p align='center'>Adaptable developer with a passion for the intersection of code and Pokémon!</p>
-<p align='center'>Software Engineer based in Florida looking for an opportunity to bring my interpersonal and software development experience to a tech company with a global reach, and contribute to innovative projects within the interactive entertainment industry.</p>
+<p align='center'>An adaptable developer with a purpose for determining efficient software solutions.</p>
+<p align='center'>Highly productive and organized, striving to provide optimal user experience using best practices. Looking for an opportunity to bring my interpersonal and software development experience to a tech company with a global reach.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
