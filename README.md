@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
-      <a target="_blank" href="https://yiremorlans.github.io/NASA-api/">
+      <a target="_blank" href="https://stellar-apod.netlify.app/">
             <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
         </a>
         <br />
@@ -54,7 +54,7 @@
   <a href="https://github.com/yiremorlans/NASA-api" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://yiremorlans.github.io/NASA-api/" target="_blank">
+  <a href="https://stellar-apod.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
