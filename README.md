@@ -83,7 +83,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Cocktail Machine</h3>
         <br />
-        <a target="_blank" href="https://yiremorlans.github.io/cocktail-machine/">
+        <a target="_blank" href="https://cocktail-machine.netlify.app/">
           <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail-generator.gif" width="100%" height="275px" alt="cocktail generator"/>
         </a>
         <br />
@@ -92,7 +92,7 @@
   <a href="https://github.com/yiremorlans/cocktail-machine" target="_blank">
   <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://yiremorlans.github.io/cocktail-machine/" target="_blank">
+  <a href="https://cocktail-machine.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
         <p align="center"><strong>Web App w/ theCocktailDB API integration - HTML, CSS, JS</strong></p>
