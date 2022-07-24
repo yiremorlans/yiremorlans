@@ -92,7 +92,7 @@
   <a href="https://github.com/yiremorlans/cocktail-machine" target="_blank">
   <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://cocktail-machine.netlify.app/" target="_blank">
+  <a href="https://yiremorlans.github.io/cocktail-machine/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
       </p>
         <p align="center"><strong>Web App w/ theCocktailDB API integration - HTML, CSS, JS</strong></p>
