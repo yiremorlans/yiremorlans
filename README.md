@@ -67,7 +67,7 @@
       <h3 align="center">Loop Studios</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="https://github.com/yiremorlans/loop-studios/blob/main/design/desktop-preview.jpg" width="100%" height="275px" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/loop-studios/blob/main/design/desktop-preview.jpg" width="95%" height="265px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -84,7 +84,7 @@
       <h3 align="center">Cocktail Machine</h3>
         <br />
         <a target="_blank" href="https://cocktail-machine.netlify.app/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail.gif" width="100%" height="275px" alt="cocktail generator"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail.gif" width="100%" height="265px" alt="cocktail generator"/>
         </a>
         <br />
         <p align="center">
