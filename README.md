@@ -103,7 +103,7 @@
       <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-twin.gif" width="100%" height="270px" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-twin.gif" width="100%" height="260px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -120,7 +120,7 @@
       <h3 align="center">AC New Horizons: Seasons Preview</h3>
         <br />
         <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/seasons.gif" width="100%" height="270px" alt="Animal crossing seasons preview"/>
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/seasons.gif" width="100%" height="260px" alt="Animal crossing seasons preview"/>
         </a>
         <br />
         <p align="center">
