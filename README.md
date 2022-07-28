@@ -80,7 +80,7 @@
       <p align="center"><strong>Web App w/ NASA API integration - HTML, CSS, JS</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ladie's Night Cocktail Machine</h3>
+      <h3 align="center">Ladies Night Cocktail Machine</h3>
         <br />
         <a target="_blank" href="https://cocktail-machine.netlify.app/">
           <img src="https://github.com/yiremorlans/yiremorlans/blob/main/cocktail.gif" width="100%" height="270px" alt="cocktail generator"/>
