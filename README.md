@@ -15,7 +15,7 @@
   <a href="https://angel.co/u/yire-morlans" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=01a9f4&style=flat&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://github.com/yiremorlans/yiremorlans/blob/main/Yire_Morlans_-_Software_Engineer.pdf" target="_blank">
+  <a href="https://resume.io/r/pjMztUz10" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=01a9f4&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
