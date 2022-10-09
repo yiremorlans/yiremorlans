@@ -42,17 +42,17 @@
          <p align="center"><strong>Full-stack Web App - MongoDB, Node.js, Express.js, EJS, JS, TailwindCSS, live on Railway </strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Lewis Arts Studio</h3>
+      <h3 align="center">Loop Studios</h3>
       <br />
-        <a target="_blank" href="https://lewis-arts-studio.netlify.app/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/lewis.jpg" width="100%" height="300px" alt="lewis arts studio website"/>
+        <a target="_blank" href="https://yiremorlans.github.io/loop-studios/">
+          <img src="https://github.com/yiremorlans/loop-studios/blob/main/desktop-preview.jpg" width="100%" height="300px" alt="loopstudios website"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/yiremorlans/lewis-arts-studio" target="_blank">
+  <a href="https://github.com/yiremorlans/loop-studios" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://lewis-arts-studio.netlify.app/" target="_blank">
+  <a href="https://yiremorlans.github.io/loop-studios/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
@@ -77,32 +77,13 @@
          <p align="center"><strong>CRUD Web App - MongoDB, Express, EJS & CSS, JS, live on Heroku </strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Loop Studios</h3>
-      <br />
-        <a target="_blank" href="https://yiremorlans.github.io/loop-studios/">
-          <img src="https://github.com/yiremorlans/loop-studios/blob/main/desktop-preview.jpg" width="95%" height="270px" alt="loopstudios website"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/yiremorlans/loop-studios" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
-  </a>
-  <a href="https://yiremorlans.github.io/loop-studios/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
-  </a>
-      </p>
-        <p align="center"><strong>Web Development - HTML, TailwindCSS, JS</strong></p>
-    </td>
-  </tr>
-  <tr>
-        <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
         <br />
       <a target="_blank" href="https://stellar-apod.netlify.app/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
-        </a>
+        <img src="https://github.com/yiremorlans/yiremorlans/blob/main/nasa.gif" width="100%" height="270px" alt="NASA picture of day API web app"/>
+      </a>
         <br />
-        <p align="center">
+      <p align="center">
           
   <a href="https://github.com/yiremorlans/NASA-api" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
@@ -113,6 +94,8 @@
       </p>
       <p align="center"><strong>Web App w/ NASA API integration - HTML, CSS, JS</strong></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Ladies Night Cocktail Machine</h3>
         <br />
@@ -130,14 +113,11 @@
       </p>
         <p align="center"><strong>Web App w/ theCocktailDB API integration - HTML, CSS, JS</strong></p>
     </td>
-  </tr>
-  
-   <tr>
-   <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Nook & Cranny's Animal Crossing Birthday Twin</h3>
       <br />
         <a target="_blank" href="https://yiremorlans.github.io/ac-birthdaytwin/">
-          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-twin.gif" width="100%" height="260px" alt="Animal crossing birthday twin finder"/>
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/ac-twin.gif" width="100%" height="270px" alt="Animal crossing birthday twin finder"/>
         </a>
       <br />
         <p align="center">
@@ -149,22 +129,6 @@
   </a>
       </p>
         <p align="center"><strong>Web App w/ Nookipedia API - HTML, CSS, JS</strong></p>
-    </td>
-   <td width="50%" valign="top">
-      <h3 align="center">AC New Horizons: Seasons Preview</h3>
-        <br />
-        <a target="_blank" href="https://yiremorlans.github.io/acnh-seasons/">
-            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/seasons.gif" width="100%" height="260px" alt="Animal crossing seasons preview"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/yiremorlans/acnh-seasons" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
-  <a href="https://yiremorlans.github.io/acnh-seasons/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
-        </p>
-         <p align="center"><strong>Web Development - HTML, CSS, JS</strong></p>
     </td>
   </tr>
 </table>
