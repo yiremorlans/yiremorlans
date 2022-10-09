@@ -24,7 +24,41 @@
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#a3496a">
-  
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Rendervous</h3>
+        <br />
+        <a target="_blank" https://rendervous-production.up.railway.app/">
+            <img src="https://github.com/yiremorlans/yiremorlans/blob/main/rendervous.gif" width="100%" height="300px" alt="rendervous AI social network app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/yiremorlans/rendervous" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  <a href="https://rendervous-production.up.railway.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>Full-stack Web App - MongoDB, Node.js, Express.js, EJS, JS, TailwindCSS, live on Railway </strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Lewis Arts Studio</h3>
+      <br />
+        <a target="_blank" href="https://lewis-arts-studio.netlify.app/">
+          <img src="https://github.com/yiremorlans/yiremorlans/blob/main/lewis.jpg" width="100%" height="300px" alt="lewis arts studio website"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/yiremorlans/lewis-arts-studio" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://lewis-arts-studio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web Development - HTML, TailwindCSS, JS</strong></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Fan Favorite Futurama Quotes</h3>
