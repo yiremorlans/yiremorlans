@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Rendervous</h3>
         <br />
-        <a target="_blank" https://rendervous-production.up.railway.app/">
+        <a target="_blank" href="https://rendervous-production.up.railway.app/">
             <img src="https://github.com/yiremorlans/yiremorlans/blob/main/rendervous.gif" width="100%" height="300px" alt="rendervous AI social network app"/>
         </a>
         <br />
