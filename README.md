@@ -39,7 +39,7 @@
   <a href="https://rendervous-production.up.railway.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Full-stack Web App - MongoDB, Node.js, Express.js, EJS, JS, TailwindCSS, live on Railway </strong></p>
+         <p align="center"><strong>Full-stack Web App - MongoDB, Node.js, Express.js, EJS, JS, TailwindCSS</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Loop Studios</h3>
@@ -74,7 +74,7 @@
   <a href="https://futuramafan-quotes.herokuapp.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>CRUD Web App - MongoDB, Express, EJS & CSS, JS, live on Heroku </strong></p>
+         <p align="center"><strong>CRUD Web App - MongoDB, Express, EJS & CSS, JS</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tallahassee Youth Observatory Club APOD</h3>
