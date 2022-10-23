@@ -1,5 +1,5 @@
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/ezgif.com-gif-maker.gif" alt="yire morlans logo" style="width:65%"/></p>
-<p align='center'>An adaptable developer with experience in building full-stack web applications using Node.js, Express, MongoDB and React. I've contributed to open-source and worked on full-stack projects with other developers. I'm a problem solver looking for new opportunities and challenges to grow my skills within a great team.</p>
+<p align='center'>An adaptable developer with experience in building full-stack web applications using Node.js, Express, MongoDB and React. I'm a problem solver looking for new opportunities and challenges to grow my skills within a great team.</p>
 <p align='center'><img src="https://github.com/yiremorlans/yiremorlans/blob/main/fast-forward.png?raw=true" alt="arrow icon" height="10px" margin="auto" style="max-width: 100%;"> Please visit my <a href="https://yiremorlans.netlify.app/">website</a> for more about me and my work! </p>
 <p align="center">
   <a href="https://yiremorlans.netlify.app" target="_blank">
