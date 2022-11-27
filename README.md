@@ -138,5 +138,3 @@
 
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiremorlans&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
- <br/>
-   <img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
